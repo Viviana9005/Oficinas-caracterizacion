@@ -8,4 +8,4 @@ Bogotá se caracteriza como la capital financiera del país, por eso, no es de e
 
 
 
-(https://github.com/Viviana9005/Oficinas-caracterizacion/tree/master/Trabajo%20Final/Graficos_Python/Antigüedad_M2.jpg)
+![alt text](https://github.com/Viviana9005/Oficinas-caracterizacion/tree/master/Trabajo%20Final/Graficos_Python/Antigüedad_M2.jpg)
